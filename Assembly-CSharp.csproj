@@ -72,6 +72,8 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\Scritps\DoorOpenFirst.cs" />
+    <Compile Include="Assets\Scritps\Weapons\GlobalAmmo.cs" />
+    <Compile Include="Assets\Scritps\Weapons\HandgunAmmoPick.cs" />
     <Compile Include="Assets\Scritps\Weapons\HandgunFire.cs" />
     <Compile Include="Assets\Scritps\Weapons\HandgunPickup.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
